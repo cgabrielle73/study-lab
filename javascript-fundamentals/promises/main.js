@@ -44,6 +44,6 @@ const newFunction = async () => {
     } catch (error) {
         console.log(error)
     }
-
 }
+
 newFunction()
